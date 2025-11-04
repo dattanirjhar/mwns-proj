@@ -1,0 +1,33 @@
+Hybrid Crypto GUI Log — 2025-10-31T04:01:38.097064Z
+[2025-10-31 09:31:38] INFO: Ready
+[2025-10-31 09:31:47] INFO: Generating Sender RSA-2048 keys...
+[2025-10-31 09:31:49] INFO: Sender keys generated (2048 bits)
+[2025-10-31 09:31:49] INFO: Sender keypair generated.
+[2025-10-31 09:31:56] INFO: Generating Receiver RSA-2048 keys...
+[2025-10-31 09:31:56] INFO: Receiver keys generated (2048 bits)
+[2025-10-31 09:31:56] INFO: Receiver keypair generated.
+[2025-10-31 09:32:08] INFO: Message encrypted and package created.
+[2025-10-31 09:32:12] INFO: Message encrypted & package created
+[2025-10-31 09:32:17] INFO: Decryption and signature verification SUCCESS.
+[2025-10-31 09:32:19] INFO: Decryption & verification successful
+[2025-10-31 09:32:31] INFO: Package tampered for demonstration.
+[2025-10-31 09:32:36] INFO: Package tampered (simulated)
+[2025-10-31 09:32:41] ERROR: Integrity check failed: MAC check failed
+[2025-10-31 09:32:45] INFO: Integrity check FAILED
+[2025-10-31 13:40:19] INFO: Ready
+[2025-10-31 16:17:56] INFO: Ready
+[2025-10-31 16:18:35] INFO: Generating Sender RSA-2048 keys...
+[2025-10-31 16:18:36] INFO: Sender keys generated (2048 bits)
+[2025-10-31 16:18:36] INFO: Sender keypair generated.
+[2025-10-31 16:18:38] INFO: Generating Receiver RSA-2048 keys...
+[2025-10-31 16:18:39] INFO: Receiver keys generated (2048 bits)
+[2025-10-31 16:18:39] INFO: Receiver keypair generated.
+[2025-10-31 16:18:45] INFO: Message encrypted and package created.
+[2025-10-31 16:18:47] INFO: Message encrypted & package created
+[2025-10-31 16:18:50] INFO: Decryption and signature verification SUCCESS.
+[2025-10-31 16:18:51] INFO: Decryption & verification successful
+[2025-10-31 16:19:37] INFO: Package tampered for demonstration.
+[2025-10-31 16:19:38] INFO: Package tampered (simulated)
+[2025-10-31 16:19:40] ERROR: Integrity check failed: MAC check failed
+[2025-10-31 16:19:41] INFO: Integrity check FAILED
+[2025-11-04 10:58:16] INFO: Ready
