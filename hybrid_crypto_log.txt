@@ -31,3 +31,33 @@ Hybrid Crypto GUI Log — 2025-10-31T04:01:38.097064Z
 [2025-10-31 16:19:40] ERROR: Integrity check failed: MAC check failed
 [2025-10-31 16:19:41] INFO: Integrity check FAILED
 [2025-11-04 10:58:16] INFO: Ready
+[2025-11-04 11:09:24] INFO: Ready
+[2025-11-04 11:09:44] INFO: Generating Sender RSA-2048 keys...
+[2025-11-04 11:09:45] INFO: Sender keys generated (2048 bits)
+[2025-11-04 11:09:45] INFO: Sender keypair generated.
+[2025-11-04 11:09:50] INFO: Generating Receiver RSA-2048 keys...
+[2025-11-04 11:09:50] INFO: Receiver keys generated (2048 bits)
+[2025-11-04 11:09:50] INFO: Receiver keypair generated.
+[2025-11-04 11:09:58] INFO: Message encrypted and package created.
+[2025-11-04 11:10:00] INFO: Message encrypted & package created
+[2025-11-04 11:10:07] INFO: Decryption and signature verification SUCCESS.
+[2025-11-04 11:10:09] INFO: Decryption & verification successful
+[2025-11-04 11:10:14] INFO: Package tampered for demonstration.
+[2025-11-04 11:10:16] INFO: Package tampered (simulated)
+[2025-11-04 11:10:18] ERROR: Integrity check failed: MAC check failed
+[2025-11-04 11:10:20] INFO: Integrity check FAILED
+[2025-11-04 11:14:16] INFO: Ready
+[2025-11-04 11:14:23] INFO: Generating Sender RSA-2048 keys...
+[2025-11-04 11:14:24] INFO: Sender keys generated (2048 bits)
+[2025-11-04 11:14:24] INFO: Sender keypair generated.
+[2025-11-04 11:14:27] INFO: Generating Receiver RSA-2048 keys...
+[2025-11-04 11:14:29] INFO: Receiver keys generated (2048 bits)
+[2025-11-04 11:14:29] INFO: Receiver keypair generated.
+[2025-11-04 11:14:40] INFO: Message encrypted and package created.
+[2025-11-04 11:14:41] INFO: Message encrypted & package created
+[2025-11-04 11:14:43] INFO: Decryption and signature verification SUCCESS.
+[2025-11-04 11:14:45] INFO: Decryption & verification successful
+[2025-11-04 11:14:49] INFO: Package tampered for demonstration.
+[2025-11-04 11:14:50] INFO: Package tampered (simulated)
+[2025-11-04 11:14:52] ERROR: Integrity check failed: MAC check failed
+[2025-11-04 11:14:54] INFO: Integrity check FAILED
